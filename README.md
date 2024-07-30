@@ -1,4 +1,4 @@
-# Little Lemon
+# Little Lemon Restaurant Android Mobile App
 The purpose of this project is to develop a food ordering app for the Little Lemon restaurant, which is Chicago-based and specializes in mediterranean cuisine.
 
 ## Wireframe:
